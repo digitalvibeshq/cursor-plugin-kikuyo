@@ -1,0 +1,37 @@
+{
+  "$schema": "https://cursor.com/schemas/plugin/1.0.0/plugin.schema.json",
+  "name": "kikuyo",
+  "displayName": "Kikuyo",
+  "version": "0.1.0",
+  "description": "Manage product feedback, feature requests, statuses, and threaded comments across your Kikuyo organizations and projects.",
+  "author": {
+    "name": "David Mohl",
+    "email": "git@d.sh",
+    "url": "https://github.com/dvcrn"
+  },
+  "homepage": "https://kikuyo.app/docs/mcp",
+  "documentationUrl": "https://kikuyo.app/docs/mcp",
+  "supportUrl": "https://github.com/digitalvibeshq/cursor-plugin-kikuyo/issues/new",
+  "privacyPolicyUrl": "https://kikuyo.app/privacy",
+  "termsOfServiceUrl": "https://kikuyo.app/terms",
+  "repository": "https://github.com/digitalvibeshq/cursor-plugin-kikuyo",
+  "license": "MIT",
+  "logo": "apple-touch-icon.png",
+  "category": "developer-tools",
+  "keywords": [
+    "kikuyo",
+    "feedback",
+    "roadmap",
+    "feature-requests",
+    "product-management",
+    "mcp"
+  ],
+  "tags": [
+    "feedback",
+    "roadmap",
+    "product-management",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
