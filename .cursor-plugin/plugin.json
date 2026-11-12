@@ -16,7 +16,7 @@
   "termsOfServiceUrl": "https://kikuyo.app/terms",
   "repository": "https://github.com/digitalvibeshq/cursor-plugin-kikuyo",
   "license": "MIT",
-  "logo": "https://kikuyo.app/images/apple-touch-icon.png",
+  "logo": "apple-touch-icon.png",
   "category": "developer-tools",
   "keywords": [
     "kikuyo",
